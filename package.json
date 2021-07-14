@@ -1,0 +1,10 @@
+{
+  "name": "full-stack",
+  "private": true,
+  "version": "0.0.1",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "license": "ISC"
+}
