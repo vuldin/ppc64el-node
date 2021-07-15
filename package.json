@@ -1,5 +1,5 @@
 {
-  "name": "full-stack",
+  "name": "ppc64le-node",
   "private": true,
   "version": "0.0.1",
   "main": "server/index.js",
